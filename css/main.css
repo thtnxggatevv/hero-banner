@@ -41,3 +41,16 @@ body {
 
 .card-title {
   font-size: 4rem;
+  font-weight: bold;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .5);
+    display: inline;
+    line-height: 1.4;
+  }
+
+  .card-content {
+    font-size: 2rem;
+    font-style: italic;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+  }
